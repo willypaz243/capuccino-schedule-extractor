@@ -1,0 +1,7 @@
+[project]
+name = "capuccino-parser2-0"
+version = "2.0.0a"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
